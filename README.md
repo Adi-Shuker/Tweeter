@@ -4,8 +4,6 @@
 
 simple Tweeter page with functionality of adding/remove posts and comments.<br>
 
-# Getting Started
-
 # Download
 
 Options to download the app: <br>
