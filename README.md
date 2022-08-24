@@ -14,8 +14,11 @@ Options to download the app: <br>
 - Download the zip.
   
   
+  ![image](https://user-images.githubusercontent.com/73653041/186399019-16d0bf3f-6ab7-417c-a2cb-91cd5647de41.png)
+<br>
 
-![alt tag](https://user-images.githubusercontent.com/73653041/186389995-1215b10e-d145-4d1a-b616-2b2b39e9985f.PNG)
+
+![alt tag](https://user-images.githubusercontent.com/73653041/186399019-16d0bf3f-6ab7-417c-a2cb-91cd5647de41.png)
 <br>
 
 
