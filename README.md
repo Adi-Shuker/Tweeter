@@ -2,7 +2,7 @@
 
 # About The Project
 
-simple Tweeter page with functionality of adding/remove posts and comments.<br>
+simple Tweeter page with functionality of adding/deleting posts and comments.<br>
 
 # Download
 
