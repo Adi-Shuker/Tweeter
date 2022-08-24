@@ -14,7 +14,7 @@ Options to download the app: <br>
 - Download the zip.
 
 <br>
-![alt tag](https://user-images.githubusercontent.com/73653041/186389995-1215b10e-d145-4d1a-b616-2b2b39e9985f.png)
+![alt text](https://user-images.githubusercontent.com/73653041/186389995-1215b10e-d145-4d1a-b616-2b2b39e9985f.png)
 
 # Contributors
 This program was developed by Adi-Shuker
