@@ -10,7 +10,7 @@ const Renderer = function () {
             for (const comment of post.comments) {
                 str += `<div class="comment" data-id=${comment.id}>
                             <span class="delete-comment">X</span>
-                            <sapn>${comment.text}</span>
+                            <span>${comment.text}</span>
                         </div>`;
             }
             str += `    </div>
